@@ -1,0 +1,25 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #333;
+    background-color: #fefbd8;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #ff7f50;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+a {
+    text-decoration: none;
+    color: #4682b4;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
